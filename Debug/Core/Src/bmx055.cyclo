@@ -1,0 +1,9 @@
+bmx055.c:19:6:BMX055_init	1
+bmx055.c:33:9:BMX055_readAccelId	1
+bmx055.c:43:9:BMX055_readMagnetId	1
+bmx055.c:53:9:BMX055_readGyroId	1
+bmx055.c:63:6:BMX055_readAccel	1
+bmx055.c:77:6:BMX055_readMagnet	1
+bmx055.c:91:6:BMX055_readGyro	1
+bmx055.c:105:6:BMX055_setAccelRange	1
+bmx055.c:113:6:BMX055_setGyroRange	1
