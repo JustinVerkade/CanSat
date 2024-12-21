@@ -1,7 +1,0 @@
-sd_card.c:12:13:checkCall	2
-sd_card.c:26:6:SD_Init	1
-sd_card.c:31:6:SD_Exists	2
-sd_card.c:46:6:SD_Open	1
-sd_card.c:51:6:SD_Write	1
-sd_card.c:58:6:SD_Save	1
-sd_card.c:63:6:SD_Close	1

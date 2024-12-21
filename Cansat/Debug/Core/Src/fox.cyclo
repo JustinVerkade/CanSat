@@ -1,0 +1,12 @@
+fox.c:10:9:usbIsConnected	1
+fox.c:19:9:usbReadLine	3
+fox.c:37:6:usbSendString	3
+fox.c:42:6:usbSendStringln	1
+fox.c:51:6:usbSendBin	3
+fox.c:60:6:usbSendBinln	3
+fox.c:69:6:usbSendInt	1
+fox.c:76:6:usbSendIntln	1
+fox.c:83:6:usbSendFloat	1
+fox.c:90:6:usbSendFloatln	1
+fox.c:100:6:ledWrite	5
+fox.c:147:10:analogRead	1
